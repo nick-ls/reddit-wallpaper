@@ -1,0 +1,16 @@
+{
+  "name": "reddit-wallpaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.6.0",
+    "request": "^2.88.0",
+    "wallpaper": "^4.2.0"
+  }
+}
