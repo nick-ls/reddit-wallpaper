@@ -1,0 +1,12 @@
+{
+	"include": ["src/"],
+	"compilerOptions": {
+		"allowJs": false,
+		"alwaysStrict": true,
+		"noImplicitAny": true,
+		"strict": true,
+		"module": "commonjs",
+		"target": "ES2021",
+		"outDir": "build/"
+	}
+}

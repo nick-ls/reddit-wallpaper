@@ -9,8 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jimp": "^0.6.0",
-    "request": "^2.88.0",
-    "wallpaper": "^4.2.0"
+    "node-fetch": "^2.6.1",
+    "tsc": "^2.0.3",
+    "wallpaper": "^4.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.9",
+    "@types/node-fetch": "^2.5.12"
   }
 }
