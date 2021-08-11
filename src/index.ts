@@ -9,7 +9,7 @@ var imgnum = 0;
 var cache = [];
 var currentInterval;
 
-
+let sub = new Subreddit("natureisfuckinglit", "top", "week");
 
 /*function fetchImages() {
 	for (var i = 0; i < subreddits.length; i++) {
